@@ -1,13 +1,5 @@
 # Limpar-Cache by: Kottcha
 
-**Libere espaço no seu computador com apenas um clique!
-Quando a limpeza estiver concluída, um registro será gerado mostrando o que foi removido.
-Copie o código abaixo:**
-
-
-
-
-
 @echo off
 chcp 65001 > nul
 setlocal
