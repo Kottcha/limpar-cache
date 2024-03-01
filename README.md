@@ -17,3 +17,6 @@ Dicas:
 Execute regularmente para manter seu sistema limpo e eficiente.
 Personalize as configurações do terminal para uma experiência visual mais agradável.
 Aviso: Certifique-se de revisar os registros antes de excluir permanentemente qualquer conteúdo.
+
+
+![Novo Projeto](https://github.com/Kottcha/limpar-cache/assets/134169476/d2889a35-7a23-47e8-8a46-9b9ae28de842)
